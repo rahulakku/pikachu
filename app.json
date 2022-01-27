@@ -1,10 +1,10 @@
 {
     "name": "Pikachu",
-    "description": "Pikachu - Whatsapp Bot",
+    "description": "rahulakku - Whatsapp Bot",
     "logo": "https://i.imgur.com/W0i7oMY.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/rahulakku/pikachu",
-    "website":   "https://t.me/phaticusthiccy",
+    "website":   "https://t.me/rahulakku",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
@@ -13,7 +13,7 @@
             "required": true
         },
         "SUDO": {
-            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code,"
+            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an "
             "required": false
         },
         "LANGUAGE": {
